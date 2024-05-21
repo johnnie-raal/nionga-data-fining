@@ -1,3 +1,9 @@
-"countables": []
-"nocountables": []
-"orders": []
+{
+    "countable": ["apples", "bananas", "oranges"],
+    "nocountable": ["water", "air", "sand"],
+    "orders": [
+        {"item": "apples", "quantity": 5},
+        {"item": "bananas", "quantity": 3},
+        {"item": "oranges", "quantity": 2}
+    ]
+}

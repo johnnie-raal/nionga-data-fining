@@ -1,9 +1,45 @@
 {
-    "countable": ["apples", "bananas", "oranges"],
-    "nocountable": ["water", "air", "sand"],
+    "countable": [
+        "vendi una mayonesa chica", 
+        "podrias agregar un bimbo blanco chico",
+        "agrega dos cocas de seiscientos",
+        "podrias anotar un jarrito de dos litros de uva",
+        "anota una crema alpura chica",
+        "un big mix azul",
+        "un six de victoria laton",
+        "agrega dos latas de elote grande",
+        "una alpura deslactosada",
+        "una mineralita de dos litros",
+        "vendi dos tang de limon",
+        "anota una new mix roja",
+        "agrega tres maruchan de habanero",
+        "unas rajas costenia mediana"
+    ],
+    "nocountable": [
+        "vendi medio kilo de oaxaca",
+        "agrega diez pesos de rayado",
+        "podrias anotar 5 pesos de gomitas",
+        "podrias agregar cuarto y medio de jamon del patron",
+        "anota un cuarto de chori",
+        "un kilo de arroz",
+        "tres cuartos de manchego",
+        "20 pesos de rajas",
+        "medio cuarto de panela",
+        "25 pesos de crema suelta"
+    ],
     "orders": [
-        {"item": "apples", "quantity": 5},
-        {"item": "bananas", "quantity": 3},
-        {"item": "oranges", "quantity": 2}
+        "quiero abrir mi registro",
+        "puedes abrir mi registro mi id es 12569",
+        "cierra mi registro porfa mi id es 59876",
+        "mi id es 547812",
+        "quiero ver mi venta de ayer",
+        "quiero ver mi venta de esta semana",
+        "quiero ver mi venta de la semana pasada",
+        "quiero registrarme",
+        "mi correo es diremail000@email.com",
+        "mi alias es eljj0000",
+        "mi usuario es eljj0000",
+        "quiero ver la venta de eljj0000 con id 12569",
+        "abrir el modo admin mi id es 57849 y mi usuario es elmolinete85"
     ]
 }

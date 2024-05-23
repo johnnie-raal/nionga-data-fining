@@ -1,0 +1,990 @@
+[
+  {
+    "sentence": "cuarto y medio de oaxaca",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "oaxaca",
+        "cantidad": 375,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "cincuenta pesos de doble crema",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "doble crema",
+        "cantidad": -1,
+        "precio": 50,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "cinco tiras de queso amarillo",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "queso amarillo",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 5,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una crema chica alpura",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "crema chica alpura",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "un kilo de chori",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "chori",
+        "cantidad": 1000,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "medio cuarto de jamon de pavo",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "jamon pavo",
+        "cantidad": 125,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "veinticinco de jamon del patron",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "jamon patron",
+        "cantidad": -1,
+        "precio": 25,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una mantequilla iberia",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "mantequilla iberia",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "unos isadora negros",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "isadora negros",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "dos bimbo blanco grande",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "bimbo blanco grande",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 2,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "dos maruchan de pollo una de res y una de habanero",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "maruchan pollo",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "maruchan res",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "maruchan habanero",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una de elote chico una catsup y dos coca de tres retornable",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "elote chico",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "catsup",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "coca tres retornable",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 2,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "diez pesos de gomitas y cinco pesos de huevitos",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "gomitas",
+        "cantidad": -1,
+        "precio": 10,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "huevitos",
+        "cantidad": -1,
+        "precio": 5,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "veinte pesos de huevo",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "huevo",
+        "cantidad": -1,
+        "precio": 20,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "dos cocas de seiscientos y una de seiscientos sin azucar porfa",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "coca seiscientos",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 2,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "coca 600 sin azucar",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "sesenta de jamon de pavo tres cuartos de oaxaca y unas tortillas de diez",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "jamon pavo",
+        "cantidad": -1,
+        "precio": 60,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "oaxaca",
+        "cantidad": 750,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "tortillas de 10",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una sal de kilo y tres malboros",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "sal kilo",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "malboro",
+        "cantidad": 3,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "un ariel liquido y un ariel de cuarto",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "ariel liquido",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "ariel cuarto",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una recarga movi de 30",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "recarga movi",
+        "cantidad": -1,
+        "precio": 30,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "unos frijoles bayos enteros y unos negros refritos de la costeña",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "frijoles bayos enteros",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "frijoles negros refritos coseña",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "unos isadora negros un seven de uno setenta y cinco y tres cuartos de frijol negro",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "isadora negros",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "seven uno setenta y cinco",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "frijol negro",
+        "cantidad": 750,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "un fabuloso morado mediano y un salvo liquido de cuatrocientos",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "fabuloso morado mediano",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "salvo liquido cuatrocientos",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una pepsi de 3 y una caja de pallmall de cereza",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "pepsi tres",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "unos chetos azules un paketazo azul unos malboro rojo",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "chetos azules",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "malboro rojo",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "un pall de pepino y uno del alaska",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "pall pepino",
+        "cantidad": 1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "pall alaska",
+        "cantidad": 1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una victoria mega, una modelo laton y unos pall de pepino",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "victoria mega",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "modelo laton",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "pall pepino",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una crema de medio alpura una sopa de codo del dos un rico pollo un cuarto de rayado y una red de tres",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "crema medio alpura",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "sopa codo dos",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "rico pollo",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "red tres",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "rayado",
+        "cantidad": 250,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "dos bimbos blancos grandes medio de jamon de pavo treinta de doble una mayonesa mediana y una lala de galon",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "bimbo blanco grande",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 2,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "jamon pavo",
+        "cantidad": 500,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "doble",
+        "cantidad": -1,
+        "precio": 30,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "mayonesa mediana",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "lala galon",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "una vela de papel y dos velas",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "vela papel",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "vela",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 2,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "unas cremax chicas de chocolate y unas principe de tubo de las azules",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "cremax chicas chocolate",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "principe tubo azules",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "unas mantecadas con chispas y un nito",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "mantecadas chispas",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "nito",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+    ]
+  },
+  {
+    "sentence": "un pan molido y unas sabritas moradas de bolsasa",
+    "action": "sale",
+    "entries": [
+      {
+        "producto": "pan molido",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      },
+      {
+        "producto": "sabritas moradas bolsasa",
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": 1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "quiero abrir mi registro",
+    "action": "abrir-registro",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": -1,
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "abrir mi registro mi id es u12569",
+    "action": "abrir-registro",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "u12569",
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "cerrar mi registro mi id es u59876",
+    "action": "cerrar-registro",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "u59876",
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "mi id es u547812",
+    "action" : "none",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "u547812",
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "ver venta de ayer",
+    "action": "see-sale",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "none",
+        "daterange": "hoy-1",
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "ver venta de esta semana",
+    "action": "see-sale",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "none",
+        "daterange": "lunes-hoy",
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "ver venta de la semana pasada",
+    "action": "see-sale",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "none",
+        "daterange": "pasado-lunes-domingo",
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "quiero registrarme",
+    "action": "signup",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "none",
+        "daterange": -1,
+        "email": -1,
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "mi correo es diremail0000@email.com",
+    "action": "set-email",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "none",
+        "daterange": -1,
+        "email": "diremail0000@email.com",
+        "alias": -1
+      }
+      ]
+  },
+  {
+    "sentence": "mi usuario es el jj0000",
+    "action": "set-username",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "none",
+        "daterange": -1,
+        "email": -1,
+        "alias": "eljj0000"
+      }
+      ]
+  },
+  {
+    "sentence": "abrir modo administrador",
+    "action": "admin-mode",
+    "entries": [
+      {
+        "producto": -1,
+        "cantidad": -1,
+        "precio": -1,
+        "unidad": -1,
+        "uid": "u512498",
+        "daterange": -1,
+        "email": -1,
+        "alias": "eljj0000"
+      }
+    ]
+  }
+]

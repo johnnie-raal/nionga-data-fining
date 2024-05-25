@@ -23,7 +23,7 @@
         {"sentence":"tres cuartos de manchego", "label": 1}, 
         {"sentence":"20 pesos de rajas", "label": 1}, 
         {"sentence":"medio cuarto de panela", "label": 1}, 
-        {"sentence":"25 pesos de crema suelta" "label": 1}, 
+        {"sentence":"25 pesos de crema suelta", "label": 1}, 
     
         {"sentence":"quiero abrir mi registro", "label": 2}, 
         {"sentence":"puedes abrir mi registro mi id es 12569", "label": 2}, 

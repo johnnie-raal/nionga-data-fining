@@ -1,4 +1,4 @@
-dict_defs = {
+{
 "litro" : ".1000",
 "litros" : ".1000",
 "kilo" : ".1000",

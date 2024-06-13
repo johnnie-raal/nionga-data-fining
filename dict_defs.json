@@ -1,8 +1,8 @@
 {
-"litro" : ".1000",
-"litros" : ".1000",
-"kilo" : ".1000",
-"kilos" : ".1000",
+"litro" : ".1",
+"litros" : ".1",
+"kilo" : ".1",
+"kilos" : ".1",
 "medio" : ".5",
 "medios": ".5",
 "cuarto" : ".25",

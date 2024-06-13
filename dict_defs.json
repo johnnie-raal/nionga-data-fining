@@ -4,7 +4,7 @@ dict_defs = {
 "un kilo" : ".1000",
 "un kilos" : ".1000",
 "un medio" : ".5",
-"un medios"
+"un medios": ".5",
 "medios" : ".5",
 "un cuarto" : ".25",
 "un cuartos" : ".25",
